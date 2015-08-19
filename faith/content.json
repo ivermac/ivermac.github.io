@@ -1,0 +1,23 @@
+"about-us": {
+
+    "title": "About Us", 
+    "text": "FKA is a Kenyan progressive Kenyan corporate and commercial law firm providing legal advice and transaction services to a wide range of both Kenyan and international clients. At FKA we strive to develop and provide our clients with solutions tailor made to protect and safeguard their interests, whilst minimising the legal and regulatory risks. We are a modern Firm that is aware of our clients’ specific legal needs and our aim to address and fulfill them adequately.
+            Our areas of practice include real estate & conveyancing, corporate & commercial law, and banking finance & securities. The Firm also provides Notary and Commissioner for Oaths services
+            The range of clients at FKA includes property development companies, local businesses & companies, construction & infrastructure companies, banks & financial services institutions, manufacturing and services companies, transport and as well as private individuals. 
+            FKA is led by the Managing Partner Ms. Faith Kanaga who is assisted by a vibrant and dedicated Team of Associates, paralegal and support staff."
+
+}, 
+
+"our-policy": {
+    "title": "Our Policy", 
+    "text": "TAt FKA our aim is to ensure that the legal advice and services we provide to our clients is not only accurate and relevant but is also delivered in a friendly and client-oriented manner.  We are fully aware of the need for legal advice and legal structures to be compatible with the needs of modern commerce, industry and finance.
+            We pride ourselves in adhering to the following basic principles: ",
+    "items": [
+        "Developing and providing solutions that protect and enhance our clients’ interests.",
+        "We continuously improve ourselves to ensure that our services keep up with the industry best practice",
+        "Maintaining efficiency by utilizing technology to add value to our clients and ensuring that you the client are kept updated on progress of your matter."
+        "Upholding legal professional standards while maintaining the highest levels of integrity in carrying out our duties and serving our clients."
+        "Ensuring that the work environment facilitates friendliness, team work, mutual respect and enthusiasm for work"
+    ]
+
+}
