@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom'>
+<channel>
+<atom:link href='https://ivermac.github.io' rel='self' type='application/rss+xml'/>
+<title>
+ekisa
+</title>
+<link>
+https://ivermac.github.io
+</link>
+<description>
+my experiences
+</description>
+<lastBuildDate>
+Wed, 08 Feb 2017 21:50:38 +0300
+</lastBuildDate>
+<generator>
+clj-rss
+</generator>
+<item>
+<guid>
+https://ivermac.github.io/posts-output/2017-01-08-ya-kwanza/
+</guid>
+<link>
+https://ivermac.github.io/posts-output/2017-01-08-ya-kwanza/
+</link>
+<title>
+Ya kwanza
+</title>
+<description>
+&lt;p&gt; I'm excited to write my first post. It's been a long time coming&lt;/p&gt;
+</description>
+<author>
+Mark Ekisa
+</author>
+<enclosure>
+
+</enclosure>
+<pubDate>
+Sun, 08 Jan 2017 00:00:00 +0300
+</pubDate>
+</item>
+</channel>
+</rss>
